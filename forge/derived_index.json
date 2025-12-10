@@ -3386,6 +3386,12 @@
                 "1.21.10-60.1.5"
             ]
         },
+        "1.21.11": {
+            "latest": "1.21.11-61.0.0",
+            "versions": [
+                "1.21.11-61.0.0"
+            ]
+        },
         "1.21.3": {
             "latest": "1.21.3-53.1.6",
             "recommended": "1.21.3-53.1.0",
@@ -132973,6 +132979,56 @@
             "mcversion": "1.21.10",
             "recommended": false,
             "version": "60.1.5"
+        },
+        "1.21.11-61.0.0": {
+            "build": 0,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt",
+                    "hash": "2a2cafcd9687cbfb17ff6eeafbc00fe8"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar",
+                    "hash": "d6e09f1609b3dfa57fd16ba9dd4d36be"
+                },
+                "mdk": {
+                    "classifier": "mdk",
+                    "extension": "zip",
+                    "hash": "4c58e8be106fd6794bb47d607c71ebb3"
+                },
+                "shim": {
+                    "classifier": "shim",
+                    "extension": "jar",
+                    "hash": "fbdb972a951b5243a46b2c518a786f3f"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar",
+                    "hash": "631bc9e76aae1ce9e1d0407f4e0021d3"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar",
+                    "hash": "4b14916cdb54bde230735104f84fa990"
+                },
+                "universal-srg": {
+                    "classifier": "universal-srg",
+                    "extension": "jar",
+                    "hash": "1a64c166d6a2d3b0714ea7b60b3ce202"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar",
+                    "hash": "86187827f10e7cd80c8441246dce2305"
+                }
+            },
+            "latest": true,
+            "longversion": "1.21.11-61.0.0",
+            "mcversion": "1.21.11",
+            "recommended": false,
+            "version": "61.0.0"
         },
         "1.21.3-53.0.0": {
             "build": 0,
