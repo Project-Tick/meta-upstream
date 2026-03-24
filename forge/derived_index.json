@@ -5360,6 +5360,12 @@
                 "1.9.4-12.17.0.2051",
                 "1.9.4-12.17.0.2317-1.9.4"
             ]
+        },
+        "26.1": {
+            "latest": "26.1-62.0.0",
+            "versions": [
+                "26.1-62.0.0"
+            ]
         }
     },
     "versions": {
@@ -195435,6 +195441,51 @@
             "mcversion": "1.9.4",
             "recommended": true,
             "version": "12.17.0.2317"
+        },
+        "26.1-62.0.0": {
+            "build": 0,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt",
+                    "hash": "1c1383825a3c000d0f4ef9d18cdd64fb"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar",
+                    "hash": "c3c05dba77cda9d6b37106f7d37f023c"
+                },
+                "mdk": {
+                    "classifier": "mdk",
+                    "extension": "zip",
+                    "hash": "5abe64a408ecdf78c8645dea03dadc2d"
+                },
+                "shim": {
+                    "classifier": "shim",
+                    "extension": "jar",
+                    "hash": "dbcccb2eac9bf10a461d6fd8f4beeaf1"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar",
+                    "hash": "3ce7a8e8bce85d0aeb75bf437ff95a83"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar",
+                    "hash": "a4ecf245e66a275583dafd0a09802c55"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar",
+                    "hash": "92cea61a54a49bbab0935edd24c0bf65"
+                }
+            },
+            "latest": true,
+            "longversion": "26.1-62.0.0",
+            "mcversion": "26.1",
+            "recommended": false,
+            "version": "62.0.0"
         }
     }
 }
