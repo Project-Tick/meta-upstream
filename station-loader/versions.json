@@ -1,1 +1,222 @@
-{}
+{
+    "2.0.0-alpha.5.4": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.5.4",
+        "tag": "2.0.0-alpha.5.4",
+        "prerelease": true,
+        "date": "2025-12-23T16:39:11Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.5.4/StationAPI-2.0.0-alpha.5.4-sources.jar",
+        "size": 212146,
+        "filename": "StationAPI-2.0.0-alpha.5.4-sources.jar"
+    },
+    "2.0.0-alpha.5.3": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.5.3",
+        "tag": "2.0.0-alpha.5.3",
+        "prerelease": true,
+        "date": "2025-12-06T18:36:40Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.5.3/StationAPI-2.0.0-alpha.5.3-sources.jar",
+        "size": 212146,
+        "filename": "StationAPI-2.0.0-alpha.5.3-sources.jar"
+    },
+    "2.0.0-alpha.5.2": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.5.2",
+        "tag": "2.0.0-alpha.5.2",
+        "prerelease": true,
+        "date": "2025-08-17T19:27:44Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.5.2/StationAPI-2.0.0-alpha.5.2-sources.jar",
+        "size": 212146,
+        "filename": "StationAPI-2.0.0-alpha.5.2-sources.jar"
+    },
+    "2.0.0-alpha.5": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.5",
+        "tag": "2.0.0-alpha.5",
+        "prerelease": true,
+        "date": "2025-07-27T17:45:59Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.5/StationAPI-2.0.0-alpha.5-sources.jar",
+        "size": 212427,
+        "filename": "StationAPI-2.0.0-alpha.5-sources.jar"
+    },
+    "2.0.0-alpha.4.1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.4.1",
+        "tag": "2.0.0-alpha.4.1",
+        "prerelease": true,
+        "date": "2025-07-05T15:53:17Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.4.1/StationAPI-2.0.0-alpha.4.1-sources.jar",
+        "size": 212409,
+        "filename": "StationAPI-2.0.0-alpha.4.1-sources.jar"
+    },
+    "2.0.0-alpha.4": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.4",
+        "tag": "2.0.0-alpha.4",
+        "prerelease": true,
+        "date": "2025-02-16T18:20:05Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.4/StationAPI-2.0.0-alpha.4-sources.jar",
+        "size": 212126,
+        "filename": "StationAPI-2.0.0-alpha.4-sources.jar"
+    },
+    "2.0.0-alpha.3": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.3",
+        "tag": "2.0.0-alpha.3",
+        "prerelease": true,
+        "date": "2024-12-14T18:35:00Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.3/StationAPI-2.0.0-alpha.3-sources.jar",
+        "size": 212123,
+        "filename": "StationAPI-2.0.0-alpha.3-sources.jar"
+    },
+    "2.0-alpha.3": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-alpha.3",
+        "tag": "2.0-alpha.3",
+        "prerelease": true,
+        "date": "2024-11-30T16:52:24Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-alpha.3/StationAPI-2.0-alpha.3-sources.jar",
+        "size": 212123,
+        "filename": "StationAPI-2.0-alpha.3-sources.jar"
+    },
+    "2.0-alpha.2.3": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-alpha.2.3",
+        "tag": "2.0-alpha.2.3",
+        "prerelease": true,
+        "date": "2024-09-05T18:16:11Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-alpha.2.3/StationAPI-2.0-alpha.2.3-sources.jar",
+        "size": 212123,
+        "filename": "StationAPI-2.0-alpha.2.3-sources.jar"
+    },
+    "2.0-alpha.2.2": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-alpha.2.2",
+        "tag": "2.0-alpha.2.2",
+        "prerelease": true,
+        "date": "2024-09-04T16:53:26Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-alpha.2.2/StationAPI-2.0-alpha.2.2-sources.jar",
+        "size": 212123,
+        "filename": "StationAPI-2.0-alpha.2.2-sources.jar"
+    },
+    "2.0-alpha.2.1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-alpha.2.1",
+        "tag": "2.0-alpha.2.1",
+        "prerelease": true,
+        "date": "2024-05-06T15:19:47Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-alpha.2.1/StationAPI-2.0-alpha.2.1-sources.jar",
+        "size": 212124,
+        "filename": "StationAPI-2.0-alpha.2.1-sources.jar"
+    },
+    "2.0-alpha.2": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-alpha.2",
+        "tag": "2.0-alpha.2",
+        "prerelease": true,
+        "date": "2024-05-04T10:11:59Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-alpha.2/StationAPI-2.0-alpha.2-sources.jar",
+        "size": 212124,
+        "filename": "StationAPI-2.0-alpha.2-sources.jar"
+    },
+    "2.0-alpha.1.1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-alpha.1.1",
+        "tag": "2.0-alpha.1.1",
+        "prerelease": true,
+        "date": "2023-12-03T20:08:56Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-alpha.1.1/StationAPI-2.0-alpha.1.1-sources.jar",
+        "size": 212120,
+        "filename": "StationAPI-2.0-alpha.1.1-sources.jar"
+    },
+    "2.0-alpha.1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-alpha.1",
+        "tag": "2.0-alpha.1",
+        "prerelease": true,
+        "date": "2023-11-13T20:36:26Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-alpha.1/StationAPI-2.0-alpha.1.jar",
+        "size": 34201582,
+        "filename": "StationAPI-2.0-alpha.1.jar"
+    },
+    "2.0-PRE2": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-PRE2",
+        "tag": "2.0-PRE2",
+        "prerelease": true,
+        "date": "2021-09-25T00:00:45Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-PRE2/StationAPI-2.0-PRE2-fatjavadoc.jar",
+        "size": 1398318,
+        "filename": "StationAPI-2.0-PRE2-fatjavadoc.jar"
+    },
+    "2.0-PRE1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0-PRE1",
+        "tag": "2.0-PRE1",
+        "prerelease": true,
+        "date": "2021-02-21T20:25:41Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0-PRE1/StationAPI-2.0-PRE1-dev.jar",
+        "size": 533482,
+        "filename": "StationAPI-2.0-PRE1-dev.jar"
+    },
+    "1.3.1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 1.3.1",
+        "tag": "1.3.1",
+        "prerelease": true,
+        "date": "2020-11-17T14:59:47Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/1.3.1/StationLoader-1.3.1-dev.jar",
+        "size": 488642,
+        "filename": "StationLoader-1.3.1-dev.jar"
+    },
+    "1.3": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 1.3",
+        "tag": "1.3",
+        "prerelease": true,
+        "date": "2020-11-15T22:12:31Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/1.3/StationLoader-1.3-dev.jar",
+        "size": 488369,
+        "filename": "StationLoader-1.3-dev.jar"
+    },
+    "1.2": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 1.2",
+        "tag": "1.2",
+        "prerelease": true,
+        "date": "2020-10-16T19:57:59Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/1.2/StationLoader-1.2-dev.jar",
+        "size": 224798,
+        "filename": "StationLoader-1.2-dev.jar"
+    },
+    "1.1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 1.1",
+        "tag": "1.1",
+        "prerelease": true,
+        "date": "2020-09-06T16:04:11Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/1.1/StationLoader-1.1-dev.jar",
+        "size": 197537,
+        "filename": "StationLoader-1.1-dev.jar"
+    },
+    "1.0": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 1.0",
+        "tag": "1.0",
+        "prerelease": true,
+        "date": "2020-08-26T21:04:46Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/1.0/StationLoader-1.0-dev.jar",
+        "size": 146005,
+        "filename": "StationLoader-1.0-dev.jar"
+    },
+    "1.0-PRE1": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 1.0-PRE1",
+        "tag": "1.0-PRE1",
+        "prerelease": true,
+        "date": "2020-08-22T11:07:54Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/1.0-PRE1/StationLoader-1.0-dev.jar",
+        "size": 88324,
+        "filename": "StationLoader-1.0-dev.jar"
+    }
+}
