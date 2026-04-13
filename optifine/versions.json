@@ -1605,7 +1605,9 @@
         "label": "OptiFine HD U I5",
         "changelog": "changelog?f=OptiFine_1.9.4_HD_U_I5.jar",
         "date": "24.01.2021",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_I5.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_I5.jar",
+        "sha256": "b7e3b121fd1397f359c544e5f8b1a759152113067ebf18997e1725c4401feb22",
+        "size": 2640151
     },
     "1.9.4_HD_U_H5": {
         "filename": "OptiFine_1.9.4_HD_U_H5.jar",
