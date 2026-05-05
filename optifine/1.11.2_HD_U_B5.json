@@ -4,5 +4,7 @@
     "label": "OptiFine HD U B5",
     "changelog": "changelog?f=OptiFine_1.11.2_HD_U_B5.jar",
     "date": "22.12.2016",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.11.2_HD_U_B5.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.11.2_HD_U_B5.jar",
+    "sha256": "0f7c32f7a5f3b30c64f75f70c1bbf43d40b5bec2fde9b3324328b650bd12133b",
+    "size": 1982056
 }

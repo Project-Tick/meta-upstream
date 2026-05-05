@@ -4,5 +4,7 @@
     "label": "OptiFine HD U F3",
     "changelog": "changelog?f=OptiFine_1.7.2_HD_U_F3.jar",
     "date": "26.10.2017",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.7.2_HD_U_F3.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.7.2_HD_U_F3.jar",
+    "sha256": "eb9aa1ad2eb9a65561da1d47e92680950da03147c961570a98bc9daf9d084a81",
+    "size": 1658897
 }

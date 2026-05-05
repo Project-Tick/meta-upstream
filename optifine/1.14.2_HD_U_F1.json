@@ -4,5 +4,7 @@
     "label": "OptiFine HD U F1",
     "changelog": "changelog?f=OptiFine_1.14.2_HD_U_F1.jar",
     "date": "24.01.2021",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.14.2_HD_U_F1.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.14.2_HD_U_F1.jar",
+    "sha256": "c81a76d7e00169aae51f14b48ddcee3310723175d37d43cab69652f4d1688518",
+    "size": 4420191
 }

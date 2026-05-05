@@ -4,5 +4,7 @@
     "label": "OptiFine HD U I3",
     "changelog": "changelog?f=OptiFine_1.8.9_HD_U_I3.jar",
     "date": "26.10.2017",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_I3.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_I3.jar",
+    "sha256": "4959e003c0199cf178a25dac24a06e2404145cabc6f7e2d0b15ec8549f80d0b3",
+    "size": 1884290
 }

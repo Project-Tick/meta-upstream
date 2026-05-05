@@ -4,5 +4,7 @@
     "label": "OptiFine HD U B4",
     "changelog": "changelog?f=OptiFine_1.9.4_HD_U_B4.jar",
     "date": "19.05.2016",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_B4.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_B4.jar",
+    "sha256": "48bf477961b8c658273a7393c9999eb31439b4712db2edfea626c74e8533f85c",
+    "size": 1693236
 }

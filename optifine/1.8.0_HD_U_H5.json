@@ -4,5 +4,7 @@
     "label": "OptiFine HD U H5",
     "changelog": "changelog?f=OptiFine_1.8.0_HD_U_H5.jar",
     "date": "20.03.2016",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.8.0_HD_U_H5.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.8.0_HD_U_H5.jar",
+    "sha256": "8551257e8000f735a5a3fde96e7e36ba7028ef91c2959683138000c69533d745",
+    "size": 1637670
 }

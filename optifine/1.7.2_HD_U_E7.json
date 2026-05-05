@@ -4,5 +4,7 @@
     "label": "OptiFine HD U E7",
     "changelog": "changelog?f=OptiFine_1.7.2_HD_U_E7.jar",
     "date": "16.03.2017",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.7.2_HD_U_E7.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.7.2_HD_U_E7.jar",
+    "sha256": "15361cc1e2bfbddd0798e6826d4ccafa6396162d457ba492fddbe120e7eaf22d",
+    "size": 1611845
 }

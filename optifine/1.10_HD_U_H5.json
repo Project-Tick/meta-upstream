@@ -4,5 +4,7 @@
     "label": "OptiFine HD U H5",
     "changelog": "changelog?f=OptiFine_1.10_HD_U_H5.jar",
     "date": "04.12.2019",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.10_HD_U_H5.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.10_HD_U_H5.jar",
+    "sha256": "0780a17c3d3697288e5e5e2bacc575fcca8128ad0c316ce643d8a67623da43d2",
+    "size": 2576846
 }
