@@ -5400,6 +5400,12 @@
                 "26.1.2-64.0.8",
                 "26.1.2-64.0.9"
             ]
+        },
+        "26.2": {
+            "latest": "26.2-65.0.0",
+            "versions": [
+                "26.2-65.0.0"
+            ]
         }
     },
     "versions": {
@@ -196600,6 +196606,51 @@
             "mcversion": "26.1.2",
             "recommended": false,
             "version": "64.0.9"
+        },
+        "26.2-65.0.0": {
+            "build": 0,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt",
+                    "hash": "a3c8ffa1d653bc833390e57fb7c09866"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar",
+                    "hash": "8f8296cb14fedf36590219a86c992bcf"
+                },
+                "mdk": {
+                    "classifier": "mdk",
+                    "extension": "zip",
+                    "hash": "f717cecb846ac4f1685ca704e379486a"
+                },
+                "shim": {
+                    "classifier": "shim",
+                    "extension": "jar",
+                    "hash": "4bf5a3a66cef5d5f363bd765c4e7aa6c"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar",
+                    "hash": "20e17788f6a6f884e7bc3a2227399f97"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar",
+                    "hash": "bf36d943889666a9c8c20c14e8407945"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar",
+                    "hash": "ca6a00386c4dd73188b7539959664d23"
+                }
+            },
+            "latest": true,
+            "longversion": "26.2-65.0.0",
+            "mcversion": "26.2",
+            "recommended": false,
+            "version": "65.0.0"
         }
     }
 }
