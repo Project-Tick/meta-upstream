@@ -5387,7 +5387,7 @@
             ]
         },
         "26.1.2": {
-            "latest": "26.1.2-64.0.9",
+            "latest": "26.1.2-64.0.10",
             "versions": [
                 "26.1.2-64.0.0",
                 "26.1.2-64.0.1",
@@ -5398,7 +5398,8 @@
                 "26.1.2-64.0.6",
                 "26.1.2-64.0.7",
                 "26.1.2-64.0.8",
-                "26.1.2-64.0.9"
+                "26.1.2-64.0.9",
+                "26.1.2-64.0.10"
             ]
         },
         "26.2": {
@@ -196247,6 +196248,51 @@
             "recommended": false,
             "version": "64.0.1"
         },
+        "26.1.2-64.0.10": {
+            "build": 10,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt",
+                    "hash": "39dec50db34a5ce0ded5fe3f7fd16b93"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar",
+                    "hash": "353a425153bd631d031759937bf0dcee"
+                },
+                "mdk": {
+                    "classifier": "mdk",
+                    "extension": "zip",
+                    "hash": "0651ebdc957bc7d2be9b8a0d93de876d"
+                },
+                "shim": {
+                    "classifier": "shim",
+                    "extension": "jar",
+                    "hash": "9310fc3d012d2a43ade938fd22b835ad"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar",
+                    "hash": "c61f800d80f06249f441775aefacc62a"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar",
+                    "hash": "3d787ba0b2a657ba95ea9701e4783e85"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar",
+                    "hash": "b90628bee9c0b9a9176cbf19befb2459"
+                }
+            },
+            "latest": true,
+            "longversion": "26.1.2-64.0.10",
+            "mcversion": "26.1.2",
+            "recommended": false,
+            "version": "64.0.10"
+        },
         "26.1.2-64.0.2": {
             "build": 2,
             "files": {
@@ -196601,7 +196647,7 @@
                     "hash": "11dd74d7a4265eeb23917ea3130e65dd"
                 }
             },
-            "latest": true,
+            "latest": false,
             "longversion": "26.1.2-64.0.9",
             "mcversion": "26.1.2",
             "recommended": false,
