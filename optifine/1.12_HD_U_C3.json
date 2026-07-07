@@ -4,5 +4,7 @@
     "label": "OptiFine HD U C3",
     "changelog": "changelog?f=OptiFine_1.12_HD_U_C3.jar",
     "date": "26.06.2017",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_C3.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_C3.jar",
+    "sha256": "31ca7b610077b7c9ffe585082933a5f5e8e35cee9bb2594dd689a9d7905580f8",
+    "size": 2104043
 }
