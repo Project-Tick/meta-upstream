@@ -75,7 +75,9 @@
         "label": "OptiFine HD U J7 pre2",
         "changelog": "changelog?f=preview_OptiFine_1.21.9_HD_U_J7_pre2.jar",
         "date": "01.10.2025",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.9_HD_U_J7_pre2.jar"
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.9_HD_U_J7_pre2.jar",
+        "sha256": "dc7d1182360c2b23b0c96797103ef1946fae6d1bda78ec2640117df3f368f4c4",
+        "size": 7664893
     },
     "preview_OptiFine_1.21.9_HD_U_J7_pre1": {
         "filename": "preview_OptiFine_1.21.9_HD_U_J7_pre1.jar",
@@ -713,7 +715,9 @@
         "label": "OptiFine HD U G2",
         "changelog": "changelog?f=OptiFine_1.16.1_HD_U_G2.jar",
         "date": "01.08.2020",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.1_HD_U_G2.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.1_HD_U_G2.jar",
+        "sha256": "bb38be37e2c7b26776a6fd6aede86f9dcdcfb00d4ebd74d7ec54a0dec6ee8bbf",
+        "size": 5683973
     },
     "1.15.2_HD_U_G6": {
         "filename": "OptiFine_1.15.2_HD_U_G6.jar",
