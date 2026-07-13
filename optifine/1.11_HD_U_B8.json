@@ -4,5 +4,7 @@
     "label": "OptiFine HD U B8",
     "changelog": "changelog?f=OptiFine_1.11_HD_U_B8.jar",
     "date": "04.05.2017",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B8.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B8.jar",
+    "sha256": "850122310e4802899d9c91312f9056fd9a1b2bafc76935072569e501a10673ca",
+    "size": 2050659
 }

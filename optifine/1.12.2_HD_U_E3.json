@@ -4,5 +4,7 @@
     "label": "OptiFine HD U E3",
     "changelog": "changelog?f=OptiFine_1.12.2_HD_U_E3.jar",
     "date": "10.12.2018",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_E3.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_E3.jar",
+    "sha256": "470f5a83a63bb2f0f361b84fe4bfad8423cb54d730f31dbb530d81b05f2d99dd",
+    "size": 2444057
 }
