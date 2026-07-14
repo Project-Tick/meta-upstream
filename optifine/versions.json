@@ -5,9 +5,7 @@
         "label": "OptiFine HD U K1 pre2",
         "changelog": "changelog?f=preview_OptiFine_26.1.2_HD_U_K1_pre2.jar",
         "date": "22.06.2026",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_26.1.2_HD_U_K1_pre2.jar",
-        "sha256": "f8eb9026e4da2444e18d5601d3dede2bd19cf514d02095ffcdb0e101687c2172",
-        "size": 7797229
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_26.1.2_HD_U_K1_pre2.jar"
     },
     "preview_OptiFine_26.1.2_HD_U_K1_pre1": {
         "filename": "preview_OptiFine_26.1.2_HD_U_K1_pre1.jar",
@@ -55,9 +53,7 @@
         "label": "OptiFine HD U J7 pre10",
         "changelog": "changelog?f=preview_OptiFine_1.21.10_HD_U_J7_pre10.jar",
         "date": "02.12.2025",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.10_HD_U_J7_pre10.jar",
-        "sha256": "da40bd1f29fdd553e68fcf6a4e0450f088fdc8488c30ed3b0ffd4408152a8ed0",
-        "size": 7780811
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.10_HD_U_J7_pre10.jar"
     },
     "preview_OptiFine_1.21.10_HD_U_J7_pre9": {
         "filename": "preview_OptiFine_1.21.10_HD_U_J7_pre9.jar",
@@ -75,7 +71,9 @@
         "label": "OptiFine HD U J7 pre2",
         "changelog": "changelog?f=preview_OptiFine_1.21.9_HD_U_J7_pre2.jar",
         "date": "01.10.2025",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.9_HD_U_J7_pre2.jar"
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.9_HD_U_J7_pre2.jar",
+        "sha256": "dc7d1182360c2b23b0c96797103ef1946fae6d1bda78ec2640117df3f368f4c4",
+        "size": 7664893
     },
     "preview_OptiFine_1.21.9_HD_U_J7_pre1": {
         "filename": "preview_OptiFine_1.21.9_HD_U_J7_pre1.jar",
@@ -243,9 +241,7 @@
         "label": "OptiFine HD U J1 pre9",
         "changelog": "changelog?f=preview_OptiFine_1.21_HD_U_J1_pre9.jar",
         "date": "04.09.2024",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21_HD_U_J1_pre9.jar",
-        "sha256": "b26b22478592ca85c3ea829784c3b7bf0d98d882d18a937af969dcc14372d37f",
-        "size": 7355487
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21_HD_U_J1_pre9.jar"
     },
     "preview_OptiFine_1.21_HD_U_J1_pre8": {
         "filename": "preview_OptiFine_1.21_HD_U_J1_pre8.jar",
