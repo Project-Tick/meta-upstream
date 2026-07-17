@@ -1335,7 +1335,9 @@
         "label": "OptiFine HD U B7",
         "changelog": "changelog?f=OptiFine_1.11_HD_U_B7.jar",
         "date": "14.03.2017",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B7.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B7.jar",
+        "sha256": "796ba91cca32e23704824167506f32eb10a7a33d0821eacf122347bac7faca76",
+        "size": 2025882
     },
     "1.11_HD_U_B6": {
         "filename": "OptiFine_1.11_HD_U_B6.jar",
