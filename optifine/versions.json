@@ -45,7 +45,9 @@
         "label": "OptiFine HD U J7 pre11",
         "changelog": "changelog?f=preview_OptiFine_1.21.10_HD_U_J7_pre11.jar",
         "date": "03.12.2025",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.10_HD_U_J7_pre11.jar"
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.10_HD_U_J7_pre11.jar",
+        "sha256": "bf845cfc6a387b0cc879512caefa86039fd5ca9e37aa6828a1967577ae96b6d7",
+        "size": 7805444
     },
     "preview_OptiFine_1.21.10_HD_U_J7_pre10": {
         "filename": "preview_OptiFine_1.21.10_HD_U_J7_pre10.jar",
@@ -53,7 +55,9 @@
         "label": "OptiFine HD U J7 pre10",
         "changelog": "changelog?f=preview_OptiFine_1.21.10_HD_U_J7_pre10.jar",
         "date": "02.12.2025",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.10_HD_U_J7_pre10.jar"
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.10_HD_U_J7_pre10.jar",
+        "sha256": "da40bd1f29fdd553e68fcf6a4e0450f088fdc8488c30ed3b0ffd4408152a8ed0",
+        "size": 7780811
     },
     "preview_OptiFine_1.21.10_HD_U_J7_pre9": {
         "filename": "preview_OptiFine_1.21.10_HD_U_J7_pre9.jar",
@@ -1141,7 +1145,9 @@
         "label": "OptiFine HD U C4",
         "changelog": "changelog?f=OptiFine_1.12_HD_U_C4.jar",
         "date": "03.07.2017",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_C4.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_C4.jar",
+        "sha256": "2dd7fedffda9b41fbebc1d9f66d140b1e4cfe2c6fb845615118600302e2badfc",
+        "size": 2106517
     },
     "1.12_HD_U_C3": {
         "filename": "OptiFine_1.12_HD_U_C3.jar",
@@ -1319,7 +1325,9 @@
         "label": "OptiFine HD U B8",
         "changelog": "changelog?f=OptiFine_1.11_HD_U_B8.jar",
         "date": "04.05.2017",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B8.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B8.jar",
+        "sha256": "850122310e4802899d9c91312f9056fd9a1b2bafc76935072569e501a10673ca",
+        "size": 2050659
     },
     "1.11_HD_U_B7": {
         "filename": "OptiFine_1.11_HD_U_B7.jar",
