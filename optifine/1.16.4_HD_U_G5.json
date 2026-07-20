@@ -4,5 +4,7 @@
     "label": "OptiFine HD U G5",
     "changelog": "changelog?f=OptiFine_1.16.4_HD_U_G5.jar",
     "date": "06.11.2020",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.4_HD_U_G5.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.4_HD_U_G5.jar",
+    "sha256": "6e6e01f63f53d15f814d894a6bc9714f778f343aa7323ab93a25267744be1b89",
+    "size": 5770072
 }
