@@ -1595,9 +1595,7 @@
         "label": "OptiFine HD U C1",
         "changelog": "changelog?f=OptiFine_1.10_HD_U_C1.jar",
         "date": "30.06.2016",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.10_HD_U_C1.jar",
-        "sha256": "60db41a9609f5fe57f570bb6d8b4d936a53fa81a1829f1e39301e5a71d51444d",
-        "size": 1748804
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.10_HD_U_C1.jar"
     },
     "1.10_HD_U_B7": {
         "filename": "OptiFine_1.10_HD_U_B7.jar",
