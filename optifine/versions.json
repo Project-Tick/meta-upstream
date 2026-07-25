@@ -525,7 +525,9 @@
         "label": "OptiFine HD U H5",
         "changelog": "changelog?f=OptiFine_1.18.1_HD_U_H5.jar",
         "date": "03.03.2022",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H5.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H5.jar",
+        "sha256": "27daf8d5520eeb00254e2527c4cf19e021456a83b4c7dc7c1e4b4eddde84f56f",
+        "size": 6518959
     },
     "1.18.1_HD_U_H4": {
         "filename": "OptiFine_1.18.1_HD_U_H4.jar",
@@ -1523,7 +1525,9 @@
         "label": "OptiFine HD U C1",
         "changelog": "changelog?f=OptiFine_1.10.2_HD_U_C1.jar",
         "date": "30.06.2016",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.10.2_HD_U_C1.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.10.2_HD_U_C1.jar",
+        "sha256": "9f79c07983699e72dda93a4666aaa0e43013c29f8f4dd38c43dd97d6e1e10a12",
+        "size": 1747901
     },
     "1.10_HD_U_I5": {
         "filename": "OptiFine_1.10_HD_U_I5.jar",
@@ -1901,7 +1905,9 @@
         "label": "OptiFine HD U L5",
         "changelog": "changelog?f=OptiFine_1.8.9_HD_U_L5.jar",
         "date": "04.12.2019",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_L5.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_L5.jar",
+        "sha256": "b442bf55e4c703c55f5f48055d79c07eb853fcb76fa88f85587e911af4f2b084",
+        "size": 2517183
     },
     "1.8.9_HD_U_I7": {
         "filename": "OptiFine_1.8.9_HD_U_I7.jar",
@@ -2149,7 +2155,9 @@
         "label": "OptiFine HD U D3",
         "changelog": "changelog?f=OptiFine_1.7.10_HD_U_D3.jar",
         "date": "20.03.2016",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.7.10_HD_U_D3.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.7.10_HD_U_D3.jar",
+        "sha256": "a5a99de3615acfe0171cde06dfdd8ed1308b534a58b4617d99c0fe39887040be",
+        "size": 1193719
     },
     "1.7.2_HD_U_F7": {
         "filename": "OptiFine_1.7.2_HD_U_F7.jar",
