@@ -195,7 +195,9 @@
         "label": "OptiFine HD U J4 pre2",
         "changelog": "changelog?f=preview_OptiFine_1.21.4_HD_U_J4_pre2.jar",
         "date": "20.02.2025",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.4_HD_U_J4_pre2.jar"
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.4_HD_U_J4_pre2.jar",
+        "sha256": "0386ca619b120c83961b5959f8f01c5171c77a975803ead0b941013cdfe037b7",
+        "size": 7425575
     },
     "preview_OptiFine_1.21.4_HD_U_J4_pre1": {
         "filename": "preview_OptiFine_1.21.4_HD_U_J4_pre1.jar",
@@ -433,7 +435,9 @@
         "label": "OptiFine HD U I1",
         "changelog": "changelog?f=OptiFine_1.19.2_HD_U_I1.jar",
         "date": "13.12.2022",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.19.2_HD_U_I1.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.19.2_HD_U_I1.jar",
+        "sha256": "c2ba69bf0b2c7408d935d7714391d05b057d5b10dfaf5bfd5cbaf4e2b0c87a9a",
+        "size": 6932845
     },
     "1.19.2_HD_U_H9": {
         "filename": "OptiFine_1.19.2_HD_U_H9.jar",
@@ -531,7 +535,9 @@
         "label": "OptiFine HD U H4",
         "changelog": "changelog?f=OptiFine_1.18.1_HD_U_H4.jar",
         "date": "12.12.2021",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H4.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H4.jar",
+        "sha256": "325168569b21a2dcde82999876f69ec9d8af75202a7021691f2abede4d81dcec",
+        "size": 6476036
     },
     "1.18_HD_U_H3": {
         "filename": "OptiFine_1.18_HD_U_H3.jar",
@@ -1659,7 +1665,9 @@
         "label": "OptiFine HD U D8",
         "changelog": "changelog?f=OptiFine_1.9.4_HD_U_D8.jar",
         "date": "04.05.2017",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_D8.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_D8.jar",
+        "sha256": "e1d0d89391fe5505fbeba068333b2b985354d1a420f4f34ca9bc8b12ba456e87",
+        "size": 2037305
     },
     "1.9.4_HD_U_D7": {
         "filename": "OptiFine_1.9.4_HD_U_D7.jar",
