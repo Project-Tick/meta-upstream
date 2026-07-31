@@ -745,7 +745,9 @@
         "label": "OptiFine HD U F5",
         "changelog": "changelog?f=OptiFine_1.14.4_HD_U_F5.jar",
         "date": "04.12.2019",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.14.4_HD_U_F5.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.14.4_HD_U_F5.jar",
+        "sha256": "053606de560f9ee47baf646b37239ca4fcca4331235e09dbe7f8250f0ab197fc",
+        "size": 5215150
     },
     "1.14.4_HD_U_F4": {
         "filename": "OptiFine_1.14.4_HD_U_F4.jar",
@@ -813,7 +815,9 @@
         "label": "OptiFine HD U G5",
         "changelog": "changelog?f=OptiFine_1.13.2_HD_U_G5.jar",
         "date": "24.01.2021",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.13.2_HD_U_G5.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.13.2_HD_U_G5.jar",
+        "sha256": "b23510a2df1f3dd6d94e22eab7e7b16c5e53f242396cb41ebeeedab56f57bb71",
+        "size": 2766461
     },
     "1.13.2_HD_U_F5": {
         "filename": "OptiFine_1.13.2_HD_U_F5.jar",
@@ -901,7 +905,9 @@
         "label": "OptiFine HD U G6 pre1",
         "changelog": "changelog?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
         "date": "23.03.2021",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+        "sha256": "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c",
+        "size": 2668221
     },
     "1.12.2_HD_U_G5": {
         "filename": "OptiFine_1.12.2_HD_U_G5.jar",
@@ -1079,9 +1085,7 @@
         "label": "OptiFine HD U C6",
         "changelog": "changelog?f=OptiFine_1.12.1_HD_U_C6.jar",
         "date": "03.10.2017",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.12.1_HD_U_C6.jar",
-        "sha256": "a15a45aaab47fb4c040a442a148b7215e768dcb49ec17b733a5f6f26dbecebd8",
-        "size": 2156682
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.12.1_HD_U_C6.jar"
     },
     "1.12.1_HD_U_C5": {
         "filename": "OptiFine_1.12.1_HD_U_C5.jar",
