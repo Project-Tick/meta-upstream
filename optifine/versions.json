@@ -755,9 +755,7 @@
         "label": "OptiFine HD U F4",
         "changelog": "changelog?f=OptiFine_1.14.4_HD_U_F4.jar",
         "date": "25.10.2019",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.14.4_HD_U_F4.jar",
-        "sha256": "66df1c3b02d62cf7149992b576e34ee0a37170f68613b4d9ab5be08c792154f2",
-        "size": 5214568
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.14.4_HD_U_F4.jar"
     },
     "1.14.4_HD_U_F3": {
         "filename": "OptiFine_1.14.4_HD_U_F3.jar",
