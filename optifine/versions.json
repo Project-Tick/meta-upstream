@@ -515,9 +515,7 @@
         "label": "OptiFine HD U H6",
         "changelog": "changelog?f=OptiFine_1.18.1_HD_U_H6.jar",
         "date": "24.03.2022",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H6.jar",
-        "sha256": "da27d9fbe66c87ba6f4cf065ac3c2b9f687e558b66ade817c341670386a6085a",
-        "size": 6519086
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H6.jar"
     },
     "1.18.1_HD_U_H5": {
         "filename": "OptiFine_1.18.1_HD_U_H5.jar",
