@@ -4,5 +4,7 @@
     "label": "OptiFine HD U C2",
     "changelog": "changelog?f=OptiFine_1.12_HD_U_C2.jar",
     "date": "18.06.2017",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_C2.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_C2.jar",
+    "sha256": "b18c62762391fa0ee0cc90926d2b51967acd7261c8b12fbf2783c9cec4445182",
+    "size": 2085519
 }
