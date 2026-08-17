@@ -165,9 +165,7 @@
         "label": "OptiFine HD U J6 pre3",
         "changelog": "changelog?f=preview_OptiFine_1.21.6_HD_U_J6_pre3.jar",
         "date": "30.06.2025",
-        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.6_HD_U_J6_pre3.jar",
-        "sha256": "f73e5b90a89e523873b5b876cbd7601f08eface74879e8dd528bd25328ef5c7a",
-        "size": 7518992
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21.6_HD_U_J6_pre3.jar"
     },
     "preview_OptiFine_1.21.6_HD_U_J6_pre2": {
         "filename": "preview_OptiFine_1.21.6_HD_U_J6_pre2.jar",
@@ -545,9 +543,7 @@
         "label": "OptiFine HD U H3",
         "changelog": "changelog?f=OptiFine_1.18_HD_U_H3.jar",
         "date": "06.12.2021",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18_HD_U_H3.jar",
-        "sha256": "6be7b5074d23c887ae82201433bab04f2f65d9d19f337510354a12892b8ff887",
-        "size": 6473656
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.18_HD_U_H3.jar"
     },
     "preview_OptiFine_1.17.1_HD_U_H2_pre1": {
         "filename": "preview_OptiFine_1.17.1_HD_U_H2_pre1.jar",
@@ -705,9 +701,7 @@
         "label": "OptiFine HD U G3",
         "changelog": "changelog?f=OptiFine_1.16.2_HD_U_G3.jar",
         "date": "29.08.2020",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.2_HD_U_G3.jar",
-        "sha256": "c72f68b911dc0b1a1e2678c2178a84b0f5cf00a3e533e20dccecdb620fb3acba",
-        "size": 5789945
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.2_HD_U_G3.jar"
     },
     "1.16.1_HD_U_G2": {
         "filename": "OptiFine_1.16.1_HD_U_G2.jar",
@@ -1335,9 +1329,7 @@
         "label": "OptiFine HD U B7",
         "changelog": "changelog?f=OptiFine_1.11_HD_U_B7.jar",
         "date": "14.03.2017",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B7.jar",
-        "sha256": "796ba91cca32e23704824167506f32eb10a7a33d0821eacf122347bac7faca76",
-        "size": 2025882
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_B7.jar"
     },
     "1.11_HD_U_B6": {
         "filename": "OptiFine_1.11_HD_U_B6.jar",
