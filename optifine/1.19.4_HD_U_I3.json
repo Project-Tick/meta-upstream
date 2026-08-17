@@ -4,5 +4,7 @@
     "label": "OptiFine HD U I3",
     "changelog": "changelog?f=OptiFine_1.19.4_HD_U_I3.jar",
     "date": "24.03.2023",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.19.4_HD_U_I3.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.19.4_HD_U_I3.jar",
+    "sha256": "1b3d2639b14a6c08fa75007567118b50d54e52c16ee760884e82851b4480993e",
+    "size": 6979831
 }
