@@ -4,5 +4,7 @@
     "label": "OptiFine HD U G7",
     "changelog": "changelog?f=OptiFine_1.16.4_HD_U_G7.jar",
     "date": "20.02.2021",
-    "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.4_HD_U_G7.jar"
+    "resolved_url": "https://optifine.net/download?f=OptiFine_1.16.4_HD_U_G7.jar",
+    "sha256": "106df3f7e5d8a039ed51dded95115d316b040058881de19b7bb2e00fab6b7f18",
+    "size": 5923611
 }
