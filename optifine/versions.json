@@ -35,7 +35,9 @@
         "label": "OptiFine HD U J8",
         "changelog": "changelog?f=OptiFine_1.21.11_HD_U_J8.jar",
         "date": "21.01.2026",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.21.11_HD_U_J8.jar"
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.21.11_HD_U_J8.jar",
+        "sha256": "2cc4c88fdd784e6e2b318252f0da65e4e0b67b6e66f9a9e5366fa8ca8e3128ad",
+        "size": 7925575
     },
     "preview_OptiFine_1.21.10_HD_U_J7_pre11": {
         "filename": "preview_OptiFine_1.21.10_HD_U_J7_pre11.jar",
