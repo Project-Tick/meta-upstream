@@ -4,5 +4,7 @@
     "label": "OptiFine HD U J1 pre9",
     "changelog": "changelog?f=preview_OptiFine_1.21_HD_U_J1_pre9.jar",
     "date": "04.09.2024",
-    "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21_HD_U_J1_pre9.jar"
+    "resolved_url": "https://optifine.net/download?f=preview_OptiFine_1.21_HD_U_J1_pre9.jar",
+    "sha256": "b26b22478592ca85c3ea829784c3b7bf0d98d882d18a937af969dcc14372d37f",
+    "size": 7355487
 }
