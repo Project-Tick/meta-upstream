@@ -1025,9 +1025,7 @@
         "label": "OptiFine HD U C7",
         "changelog": "changelog?f=OptiFine_1.12.2_HD_U_C7.jar",
         "date": "13.12.2017",
-        "resolved_url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_C7.jar",
-        "sha256": "842f9e4e9225f0b980b59442a802bfa49777da6c3154e5c21d4bf8ebe13c9971",
-        "size": 2255775
+        "resolved_url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_C7.jar"
     },
     "1.12.2_HD_U_C6": {
         "filename": "OptiFine_1.12.2_HD_U_C6.jar",
