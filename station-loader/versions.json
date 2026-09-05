@@ -258,5 +258,15 @@
         "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.6.3/StationAPI-2.0.0-alpha.6.3-sources.jar",
         "size": 212044,
         "filename": "StationAPI-2.0.0-alpha.6.3-sources.jar"
+    },
+    "2.0.0-alpha.6.4": {
+        "mc_version": "b1.7.3",
+        "label": "StationAPI 2.0.0-alpha.6.4",
+        "tag": "2.0.0-alpha.6.4",
+        "prerelease": true,
+        "date": "2026-09-05T21:14:52Z",
+        "url": "https://github.com/ModificationStation/StationAPI/releases/download/2.0.0-alpha.6.4/StationAPI-2.0.0-alpha.6.4-sources.jar",
+        "size": 212044,
+        "filename": "StationAPI-2.0.0-alpha.6.4-sources.jar"
     }
 }
