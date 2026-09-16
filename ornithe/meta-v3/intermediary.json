@@ -1,0 +1,4082 @@
+[
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4",
+        "stable": true,
+        "version": "1.14.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4-pre7",
+        "stable": true,
+        "version": "1.14.4-pre7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4-pre6",
+        "stable": true,
+        "version": "1.14.4-pre6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4-pre5",
+        "stable": true,
+        "version": "1.14.4-pre5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4-pre4",
+        "stable": true,
+        "version": "1.14.4-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4-pre3",
+        "stable": true,
+        "version": "1.14.4-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4-pre2",
+        "stable": true,
+        "version": "1.14.4-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.4-pre1",
+        "stable": true,
+        "version": "1.14.4-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.3",
+        "stable": true,
+        "version": "1.14.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.3-pre4",
+        "stable": true,
+        "version": "1.14.3-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.3-pre3",
+        "stable": true,
+        "version": "1.14.3-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.3-pre2",
+        "stable": true,
+        "version": "1.14.3-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.3-pre1",
+        "stable": true,
+        "version": "1.14.3-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.2",
+        "stable": true,
+        "version": "1.14.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.2-pre4",
+        "stable": true,
+        "version": "1.14.2-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.2-pre4-270720",
+        "stable": true,
+        "version": "1.14.2-pre4-270720"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.2-pre4-241548",
+        "stable": true,
+        "version": "1.14.2-pre4-241548"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.2-pre3",
+        "stable": true,
+        "version": "1.14.2-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.2-pre2",
+        "stable": true,
+        "version": "1.14.2-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.2-pre1",
+        "stable": true,
+        "version": "1.14.2-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.1",
+        "stable": true,
+        "version": "1.14.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.1-pre2",
+        "stable": true,
+        "version": "1.14.1-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14.1-pre1",
+        "stable": true,
+        "version": "1.14.1-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14",
+        "stable": true,
+        "version": "1.14"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14-pre5",
+        "stable": true,
+        "version": "1.14-pre5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14-pre4",
+        "stable": true,
+        "version": "1.14-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14-pre3",
+        "stable": true,
+        "version": "1.14-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14-pre2",
+        "stable": true,
+        "version": "1.14-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.14-pre1",
+        "stable": true,
+        "version": "1.14-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w14b",
+        "stable": true,
+        "version": "19w14b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w14a",
+        "stable": true,
+        "version": "19w14a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:3D Shareware v1.34",
+        "stable": true,
+        "version": "3D Shareware v1.34"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w13b",
+        "stable": true,
+        "version": "19w13b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w13b-1653",
+        "stable": true,
+        "version": "19w13b-1653"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w13b-1316",
+        "stable": true,
+        "version": "19w13b-1316"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w13a",
+        "stable": true,
+        "version": "19w13a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w12b",
+        "stable": true,
+        "version": "19w12b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w12a",
+        "stable": true,
+        "version": "19w12a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w11b",
+        "stable": true,
+        "version": "19w11b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w11a",
+        "stable": true,
+        "version": "19w11a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w09a",
+        "stable": true,
+        "version": "19w09a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w08b",
+        "stable": true,
+        "version": "19w08b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w08a",
+        "stable": true,
+        "version": "19w08a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w07a",
+        "stable": true,
+        "version": "19w07a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w06a",
+        "stable": true,
+        "version": "19w06a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w05a",
+        "stable": true,
+        "version": "19w05a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w04b",
+        "stable": true,
+        "version": "19w04b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w04a",
+        "stable": true,
+        "version": "19w04a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w03c",
+        "stable": true,
+        "version": "19w03c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w03b",
+        "stable": true,
+        "version": "19w03b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w03a",
+        "stable": true,
+        "version": "19w03a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:19w02a",
+        "stable": true,
+        "version": "19w02a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w50a",
+        "stable": true,
+        "version": "18w50a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w49a",
+        "stable": true,
+        "version": "18w49a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w48b",
+        "stable": true,
+        "version": "18w48b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w48a",
+        "stable": true,
+        "version": "18w48a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w47b",
+        "stable": true,
+        "version": "18w47b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w47a",
+        "stable": true,
+        "version": "18w47a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w46a",
+        "stable": true,
+        "version": "18w46a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w45a",
+        "stable": true,
+        "version": "18w45a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w44a",
+        "stable": true,
+        "version": "18w44a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w43c",
+        "stable": true,
+        "version": "18w43c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w43b",
+        "stable": true,
+        "version": "18w43b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w43a",
+        "stable": true,
+        "version": "18w43a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13.2",
+        "stable": true,
+        "version": "1.13.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13.2-pre2",
+        "stable": true,
+        "version": "1.13.2-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13.2-pre1",
+        "stable": true,
+        "version": "1.13.2-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13.1",
+        "stable": true,
+        "version": "1.13.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13.1-pre2",
+        "stable": true,
+        "version": "1.13.1-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13.1-pre1",
+        "stable": true,
+        "version": "1.13.1-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w33a",
+        "stable": true,
+        "version": "18w33a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w32a",
+        "stable": true,
+        "version": "18w32a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w31a",
+        "stable": true,
+        "version": "18w31a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w30b",
+        "stable": true,
+        "version": "18w30b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w30a",
+        "stable": true,
+        "version": "18w30a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13",
+        "stable": true,
+        "version": "1.13"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre10",
+        "stable": true,
+        "version": "1.13-pre10"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre9",
+        "stable": true,
+        "version": "1.13-pre9"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre8",
+        "stable": true,
+        "version": "1.13-pre8"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre7",
+        "stable": true,
+        "version": "1.13-pre7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre6",
+        "stable": true,
+        "version": "1.13-pre6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre5",
+        "stable": true,
+        "version": "1.13-pre5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre4",
+        "stable": true,
+        "version": "1.13-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre3",
+        "stable": true,
+        "version": "1.13-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre2",
+        "stable": true,
+        "version": "1.13-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.13-pre1",
+        "stable": true,
+        "version": "1.13-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w22c",
+        "stable": true,
+        "version": "18w22c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w22b",
+        "stable": true,
+        "version": "18w22b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w22a",
+        "stable": true,
+        "version": "18w22a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w21b",
+        "stable": true,
+        "version": "18w21b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w21a",
+        "stable": true,
+        "version": "18w21a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w20c",
+        "stable": true,
+        "version": "18w20c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w20b",
+        "stable": true,
+        "version": "18w20b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w20a",
+        "stable": true,
+        "version": "18w20a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w19b",
+        "stable": true,
+        "version": "18w19b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w19a",
+        "stable": true,
+        "version": "18w19a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w16a",
+        "stable": true,
+        "version": "18w16a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w15a",
+        "stable": true,
+        "version": "18w15a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w14b",
+        "stable": true,
+        "version": "18w14b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w14a",
+        "stable": true,
+        "version": "18w14a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w11a",
+        "stable": true,
+        "version": "18w11a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w10d",
+        "stable": true,
+        "version": "18w10d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w10c",
+        "stable": true,
+        "version": "18w10c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w10b",
+        "stable": true,
+        "version": "18w10b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w10a",
+        "stable": true,
+        "version": "18w10a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w09a",
+        "stable": true,
+        "version": "18w09a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w08b",
+        "stable": true,
+        "version": "18w08b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w08a",
+        "stable": true,
+        "version": "18w08a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w07c",
+        "stable": true,
+        "version": "18w07c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w07b",
+        "stable": true,
+        "version": "18w07b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w07a",
+        "stable": true,
+        "version": "18w07a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w06a",
+        "stable": true,
+        "version": "18w06a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w05a",
+        "stable": true,
+        "version": "18w05a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w03b",
+        "stable": true,
+        "version": "18w03b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w03a",
+        "stable": true,
+        "version": "18w03a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w02a",
+        "stable": true,
+        "version": "18w02a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:18w01a",
+        "stable": true,
+        "version": "18w01a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w50a",
+        "stable": true,
+        "version": "17w50a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w49b",
+        "stable": true,
+        "version": "17w49b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w49a",
+        "stable": true,
+        "version": "17w49a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w48a",
+        "stable": true,
+        "version": "17w48a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w47b",
+        "stable": true,
+        "version": "17w47b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w47a",
+        "stable": true,
+        "version": "17w47a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w46a",
+        "stable": true,
+        "version": "17w46a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w45b",
+        "stable": true,
+        "version": "17w45b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w45a",
+        "stable": true,
+        "version": "17w45a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w43b",
+        "stable": true,
+        "version": "17w43b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w43a",
+        "stable": true,
+        "version": "17w43a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12.2",
+        "stable": true,
+        "version": "1.12.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12.2-pre2",
+        "stable": true,
+        "version": "1.12.2-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12.2-pre1",
+        "stable": true,
+        "version": "1.12.2-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12.1",
+        "stable": true,
+        "version": "1.12.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12.1-pre1",
+        "stable": true,
+        "version": "1.12.1-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w31a",
+        "stable": true,
+        "version": "17w31a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12",
+        "stable": true,
+        "version": "1.12"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre7",
+        "stable": true,
+        "version": "1.12-pre7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre6",
+        "stable": true,
+        "version": "1.12-pre6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre5",
+        "stable": true,
+        "version": "1.12-pre5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre4",
+        "stable": true,
+        "version": "1.12-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre3",
+        "stable": true,
+        "version": "1.12-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre3-1409",
+        "stable": true,
+        "version": "1.12-pre3-1409"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre3-1316",
+        "stable": true,
+        "version": "1.12-pre3-1316"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre2",
+        "stable": true,
+        "version": "1.12-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.12-pre1",
+        "stable": true,
+        "version": "1.12-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w18b",
+        "stable": true,
+        "version": "17w18b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w18a",
+        "stable": true,
+        "version": "17w18a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w18a-1450",
+        "stable": true,
+        "version": "17w18a-1450"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w18a-1331",
+        "stable": true,
+        "version": "17w18a-1331"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w17b",
+        "stable": true,
+        "version": "17w17b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w17a",
+        "stable": true,
+        "version": "17w17a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w16b",
+        "stable": true,
+        "version": "17w16b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w16a",
+        "stable": true,
+        "version": "17w16a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w15a",
+        "stable": true,
+        "version": "17w15a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w14a",
+        "stable": true,
+        "version": "17w14a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w13b",
+        "stable": true,
+        "version": "17w13b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w13a",
+        "stable": true,
+        "version": "17w13a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w13a-0932",
+        "stable": true,
+        "version": "17w13a-0932"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w13a-0805",
+        "stable": true,
+        "version": "17w13a-0805"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:17w06a",
+        "stable": true,
+        "version": "17w06a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.11.2",
+        "stable": true,
+        "version": "1.11.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.11.1",
+        "stable": true,
+        "version": "1.11.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.11.1-pre",
+        "stable": true,
+        "version": "1.11.1-pre"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w50a",
+        "stable": true,
+        "version": "16w50a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.11",
+        "stable": true,
+        "version": "1.11"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.11-pre1",
+        "stable": true,
+        "version": "1.11-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w44a",
+        "stable": true,
+        "version": "16w44a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w43a",
+        "stable": true,
+        "version": "16w43a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w42a",
+        "stable": true,
+        "version": "16w42a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w41a",
+        "stable": true,
+        "version": "16w41a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w40a",
+        "stable": true,
+        "version": "16w40a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w39c",
+        "stable": true,
+        "version": "16w39c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w39b",
+        "stable": true,
+        "version": "16w39b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w39a",
+        "stable": true,
+        "version": "16w39a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w38a",
+        "stable": true,
+        "version": "16w38a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w36a",
+        "stable": true,
+        "version": "16w36a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w35a",
+        "stable": true,
+        "version": "16w35a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w33a",
+        "stable": true,
+        "version": "16w33a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w32b",
+        "stable": true,
+        "version": "16w32b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w32a",
+        "stable": true,
+        "version": "16w32a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.10.2",
+        "stable": true,
+        "version": "1.10.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.10.1",
+        "stable": true,
+        "version": "1.10.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.10",
+        "stable": true,
+        "version": "1.10"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.10-pre2",
+        "stable": true,
+        "version": "1.10-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.10-pre1",
+        "stable": true,
+        "version": "1.10-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w21b",
+        "stable": true,
+        "version": "16w21b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w21a",
+        "stable": true,
+        "version": "16w21a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w20a",
+        "stable": true,
+        "version": "16w20a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.4",
+        "stable": true,
+        "version": "1.9.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.3",
+        "stable": true,
+        "version": "1.9.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.3-pre3",
+        "stable": true,
+        "version": "1.9.3-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.3-pre2",
+        "stable": true,
+        "version": "1.9.3-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.3-pre1",
+        "stable": true,
+        "version": "1.9.3-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w15b",
+        "stable": true,
+        "version": "16w15b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w15a",
+        "stable": true,
+        "version": "16w15a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w14a",
+        "stable": true,
+        "version": "16w14a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.RV-Pre1",
+        "stable": true,
+        "version": "1.RV-Pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.2",
+        "stable": true,
+        "version": "1.9.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.1",
+        "stable": true,
+        "version": "1.9.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.1-pre3",
+        "stable": true,
+        "version": "1.9.1-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.1-pre2",
+        "stable": true,
+        "version": "1.9.1-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9.1-pre1",
+        "stable": true,
+        "version": "1.9.1-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9",
+        "stable": true,
+        "version": "1.9"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9-pre4",
+        "stable": true,
+        "version": "1.9-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9-pre3",
+        "stable": true,
+        "version": "1.9-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9-pre2",
+        "stable": true,
+        "version": "1.9-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.9-pre1",
+        "stable": true,
+        "version": "1.9-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w07b",
+        "stable": true,
+        "version": "16w07b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w07a",
+        "stable": true,
+        "version": "16w07a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w06a",
+        "stable": true,
+        "version": "16w06a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w05b",
+        "stable": true,
+        "version": "16w05b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w05a",
+        "stable": true,
+        "version": "16w05a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w04a",
+        "stable": true,
+        "version": "16w04a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w03a",
+        "stable": true,
+        "version": "16w03a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:16w02a",
+        "stable": true,
+        "version": "16w02a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w51b",
+        "stable": true,
+        "version": "15w51b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w51a",
+        "stable": true,
+        "version": "15w51a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w50a",
+        "stable": true,
+        "version": "15w50a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w49b",
+        "stable": true,
+        "version": "15w49b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.9",
+        "stable": true,
+        "version": "1.8.9"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w49a",
+        "stable": true,
+        "version": "15w49a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w47c",
+        "stable": true,
+        "version": "15w47c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w47b",
+        "stable": true,
+        "version": "15w47b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w47a",
+        "stable": true,
+        "version": "15w47a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w46a",
+        "stable": true,
+        "version": "15w46a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w45a",
+        "stable": true,
+        "version": "15w45a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w44b",
+        "stable": true,
+        "version": "15w44b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w44a",
+        "stable": true,
+        "version": "15w44a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w43c",
+        "stable": true,
+        "version": "15w43c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w43b",
+        "stable": true,
+        "version": "15w43b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w43a",
+        "stable": true,
+        "version": "15w43a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w42a",
+        "stable": true,
+        "version": "15w42a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w41b",
+        "stable": true,
+        "version": "15w41b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w41a",
+        "stable": true,
+        "version": "15w41a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w40b",
+        "stable": true,
+        "version": "15w40b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w40a",
+        "stable": true,
+        "version": "15w40a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w39c",
+        "stable": true,
+        "version": "15w39c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w39b",
+        "stable": true,
+        "version": "15w39b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w39a",
+        "stable": true,
+        "version": "15w39a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w38b",
+        "stable": true,
+        "version": "15w38b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w38a",
+        "stable": true,
+        "version": "15w38a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w37a",
+        "stable": true,
+        "version": "15w37a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w36d",
+        "stable": true,
+        "version": "15w36d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w36c",
+        "stable": true,
+        "version": "15w36c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w36b",
+        "stable": true,
+        "version": "15w36b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w36a",
+        "stable": true,
+        "version": "15w36a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w35e",
+        "stable": true,
+        "version": "15w35e"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w35d",
+        "stable": true,
+        "version": "15w35d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w35c",
+        "stable": true,
+        "version": "15w35c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w35b",
+        "stable": true,
+        "version": "15w35b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w35a",
+        "stable": true,
+        "version": "15w35a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w34d",
+        "stable": true,
+        "version": "15w34d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w34c",
+        "stable": true,
+        "version": "15w34c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w34b",
+        "stable": true,
+        "version": "15w34b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w34a",
+        "stable": true,
+        "version": "15w34a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w33c",
+        "stable": true,
+        "version": "15w33c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w33b",
+        "stable": true,
+        "version": "15w33b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w33a",
+        "stable": true,
+        "version": "15w33a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w32c",
+        "stable": true,
+        "version": "15w32c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w32b",
+        "stable": true,
+        "version": "15w32b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w32a",
+        "stable": true,
+        "version": "15w32a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w31c",
+        "stable": true,
+        "version": "15w31c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w31b",
+        "stable": true,
+        "version": "15w31b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w31a",
+        "stable": true,
+        "version": "15w31a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.8",
+        "stable": true,
+        "version": "1.8.8"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.7",
+        "stable": true,
+        "version": "1.8.7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.6",
+        "stable": true,
+        "version": "1.8.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.5",
+        "stable": true,
+        "version": "1.8.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.4",
+        "stable": true,
+        "version": "1.8.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:15w14a",
+        "stable": true,
+        "version": "15w14a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.3",
+        "stable": true,
+        "version": "1.8.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2",
+        "stable": true,
+        "version": "1.8.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2-pre7",
+        "stable": true,
+        "version": "1.8.2-pre7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2-pre6",
+        "stable": true,
+        "version": "1.8.2-pre6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2-pre5",
+        "stable": true,
+        "version": "1.8.2-pre5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2-pre4",
+        "stable": true,
+        "version": "1.8.2-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2-pre3",
+        "stable": true,
+        "version": "1.8.2-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2-pre2",
+        "stable": true,
+        "version": "1.8.2-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.2-pre1",
+        "stable": true,
+        "version": "1.8.2-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.1",
+        "stable": true,
+        "version": "1.8.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.1-pre5",
+        "stable": true,
+        "version": "1.8.1-pre5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.1-pre4",
+        "stable": true,
+        "version": "1.8.1-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.1-pre3",
+        "stable": true,
+        "version": "1.8.1-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.1-pre2",
+        "stable": true,
+        "version": "1.8.1-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8.1-pre1",
+        "stable": true,
+        "version": "1.8.1-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8",
+        "stable": true,
+        "version": "1.8"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8-pre3",
+        "stable": true,
+        "version": "1.8-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8-pre2",
+        "stable": true,
+        "version": "1.8-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.8-pre1",
+        "stable": true,
+        "version": "1.8-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w34d",
+        "stable": true,
+        "version": "14w34d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w34c",
+        "stable": true,
+        "version": "14w34c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w34c-1549",
+        "stable": true,
+        "version": "14w34c-1549"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w34b",
+        "stable": true,
+        "version": "14w34b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w34a",
+        "stable": true,
+        "version": "14w34a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w33c",
+        "stable": true,
+        "version": "14w33c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w33b",
+        "stable": true,
+        "version": "14w33b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w33a",
+        "stable": true,
+        "version": "14w33a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w32d",
+        "stable": true,
+        "version": "14w32d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w32c",
+        "stable": true,
+        "version": "14w32c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w32b",
+        "stable": true,
+        "version": "14w32b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w32a",
+        "stable": true,
+        "version": "14w32a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w31a",
+        "stable": true,
+        "version": "14w31a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w30c",
+        "stable": true,
+        "version": "14w30c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w30b",
+        "stable": true,
+        "version": "14w30b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w30a",
+        "stable": true,
+        "version": "14w30a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w29b",
+        "stable": true,
+        "version": "14w29b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w29a",
+        "stable": true,
+        "version": "14w29a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w28b",
+        "stable": true,
+        "version": "14w28b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w28a",
+        "stable": true,
+        "version": "14w28a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w27b",
+        "stable": true,
+        "version": "14w27b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w27b-1646",
+        "stable": true,
+        "version": "14w27b-1646"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w27a",
+        "stable": true,
+        "version": "14w27a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w26c",
+        "stable": true,
+        "version": "14w26c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.10",
+        "stable": true,
+        "version": "1.7.10"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w26b",
+        "stable": true,
+        "version": "14w26b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w26a",
+        "stable": true,
+        "version": "14w26a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w25b",
+        "stable": true,
+        "version": "14w25b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w25a",
+        "stable": true,
+        "version": "14w25a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.10-pre4",
+        "stable": true,
+        "version": "1.7.10-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.10-pre3",
+        "stable": true,
+        "version": "1.7.10-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.10-pre2",
+        "stable": true,
+        "version": "1.7.10-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.10-pre2-1045",
+        "stable": true,
+        "version": "1.7.10-pre2-1045"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.10-pre1",
+        "stable": true,
+        "version": "1.7.10-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w21b",
+        "stable": true,
+        "version": "14w21b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w21a",
+        "stable": true,
+        "version": "14w21a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w20b",
+        "stable": true,
+        "version": "14w20b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w20a",
+        "stable": true,
+        "version": "14w20a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w19a",
+        "stable": true,
+        "version": "14w19a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w18b",
+        "stable": true,
+        "version": "14w18b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w18a",
+        "stable": true,
+        "version": "14w18a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w17a",
+        "stable": true,
+        "version": "14w17a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w11b",
+        "stable": true,
+        "version": "14w11b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w11b-1650",
+        "stable": true,
+        "version": "14w11b-1650"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w11b-1640",
+        "stable": true,
+        "version": "14w11b-1640"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.9",
+        "stable": true,
+        "version": "1.7.9"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.8",
+        "stable": true,
+        "version": "1.7.8"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.7",
+        "stable": true,
+        "version": "1.7.7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.7-101331",
+        "stable": true,
+        "version": "1.7.7-101331"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.7-091529",
+        "stable": true,
+        "version": "1.7.7-091529"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.6",
+        "stable": true,
+        "version": "1.7.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.5",
+        "stable": true,
+        "version": "1.7.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.5-04010700",
+        "stable": true,
+        "version": "1.7.5-04010700"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.4",
+        "stable": true,
+        "version": "1.6.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.4-201404010657",
+        "stable": true,
+        "version": "1.6.4-201404010657"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w11a",
+        "stable": true,
+        "version": "14w11a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.6-pre2",
+        "stable": true,
+        "version": "1.7.6-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.6-pre1",
+        "stable": true,
+        "version": "1.7.6-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w10c-1518",
+        "stable": true,
+        "version": "14w10c-1518"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w10c",
+        "stable": true,
+        "version": "14w10c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w10c-1351",
+        "stable": true,
+        "version": "14w10c-1351"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w10b",
+        "stable": true,
+        "version": "14w10b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w10a",
+        "stable": true,
+        "version": "14w10a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w08a",
+        "stable": true,
+        "version": "14w08a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.5-02260922",
+        "stable": true,
+        "version": "1.7.5-02260922"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w07a",
+        "stable": true,
+        "version": "14w07a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w06b",
+        "stable": true,
+        "version": "14w06b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w06a",
+        "stable": true,
+        "version": "14w06a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w05b",
+        "stable": true,
+        "version": "14w05b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w05a",
+        "stable": true,
+        "version": "14w05a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w04b",
+        "stable": true,
+        "version": "14w04b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w04b-1554",
+        "stable": true,
+        "version": "14w04b-1554"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w04a",
+        "stable": true,
+        "version": "14w04a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w04a-1740",
+        "stable": true,
+        "version": "14w04a-1740"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w04a-1526",
+        "stable": true,
+        "version": "14w04a-1526"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w03b",
+        "stable": true,
+        "version": "14w03b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w03a",
+        "stable": true,
+        "version": "14w03a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w02c",
+        "stable": true,
+        "version": "14w02c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w02b",
+        "stable": true,
+        "version": "14w02b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:14w02a",
+        "stable": true,
+        "version": "14w02a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.4",
+        "stable": true,
+        "version": "1.7.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.4-pre",
+        "stable": true,
+        "version": "1.7.4-pre"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.3",
+        "stable": true,
+        "version": "1.7.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w49a",
+        "stable": true,
+        "version": "13w49a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w48b",
+        "stable": true,
+        "version": "13w48b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w48a",
+        "stable": true,
+        "version": "13w48a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w47e",
+        "stable": true,
+        "version": "13w47e"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w47d",
+        "stable": true,
+        "version": "13w47d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w47c",
+        "stable": true,
+        "version": "13w47c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w47b",
+        "stable": true,
+        "version": "13w47b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w47a",
+        "stable": true,
+        "version": "13w47a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.2",
+        "stable": true,
+        "version": "1.7.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7.1",
+        "stable": true,
+        "version": "1.7.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7",
+        "stable": true,
+        "version": "1.7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7-1602",
+        "stable": true,
+        "version": "1.7-1602"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.7-1500",
+        "stable": true,
+        "version": "1.7-1500"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w43a",
+        "stable": true,
+        "version": "13w43a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w42b",
+        "stable": true,
+        "version": "13w42b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w42a",
+        "stable": true,
+        "version": "13w42a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w41b",
+        "stable": true,
+        "version": "13w41b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w41b-1523",
+        "stable": true,
+        "version": "13w41b-1523"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w41b-1507",
+        "stable": true,
+        "version": "13w41b-1507"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w41a",
+        "stable": true,
+        "version": "13w41a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w39b",
+        "stable": true,
+        "version": "13w39b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w39a",
+        "stable": true,
+        "version": "13w39a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w39a-1627",
+        "stable": true,
+        "version": "13w39a-1627"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w39a-1511",
+        "stable": true,
+        "version": "13w39a-1511"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w38c",
+        "stable": true,
+        "version": "13w38c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w38c-1516",
+        "stable": true,
+        "version": "13w38c-1516"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w38c-1511",
+        "stable": true,
+        "version": "13w38c-1511"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w38b",
+        "stable": true,
+        "version": "13w38b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w38a",
+        "stable": true,
+        "version": "13w38a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.4-201309191549",
+        "stable": true,
+        "version": "1.6.4-201309191549"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.3",
+        "stable": true,
+        "version": "1.6.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.3-171231",
+        "stable": true,
+        "version": "1.6.3-171231"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.3-171031",
+        "stable": true,
+        "version": "1.6.3-171031"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.3-131100",
+        "stable": true,
+        "version": "1.6.3-131100"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w37b",
+        "stable": true,
+        "version": "13w37b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w37a",
+        "stable": true,
+        "version": "13w37a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w36b",
+        "stable": true,
+        "version": "13w36b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w36b-1307",
+        "stable": true,
+        "version": "13w36b-1307"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w36b-1233",
+        "stable": true,
+        "version": "13w36b-1233"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w36a",
+        "stable": true,
+        "version": "13w36a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w36a-1446",
+        "stable": true,
+        "version": "13w36a-1446"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w36a-1330",
+        "stable": true,
+        "version": "13w36a-1330"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w36a-1234",
+        "stable": true,
+        "version": "13w36a-1234"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.2",
+        "stable": true,
+        "version": "1.6.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.2-091847",
+        "stable": true,
+        "version": "1.6.2-091847"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.2-080933",
+        "stable": true,
+        "version": "1.6.2-080933"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.2-pre-1426",
+        "stable": true,
+        "version": "1.6.2-pre-1426"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6.1",
+        "stable": true,
+        "version": "1.6.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6",
+        "stable": true,
+        "version": "1.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6-1517",
+        "stable": true,
+        "version": "1.6-1517"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.6-1304",
+        "stable": true,
+        "version": "1.6-1304"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w26a",
+        "stable": true,
+        "version": "13w26a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w25c",
+        "stable": true,
+        "version": "13w25c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w25b",
+        "stable": true,
+        "version": "13w25b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w25a",
+        "stable": true,
+        "version": "13w25a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w24b",
+        "stable": true,
+        "version": "13w24b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w24a",
+        "stable": true,
+        "version": "13w24a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w23b",
+        "stable": true,
+        "version": "13w23b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w23b-0101",
+        "stable": true,
+        "version": "13w23b-0101"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w23b-0033",
+        "stable": true,
+        "version": "13w23b-0033"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w23a",
+        "stable": true,
+        "version": "13w23a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w22a",
+        "stable": true,
+        "version": "13w22a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w22a-1608",
+        "stable": true,
+        "version": "13w22a-1608"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w22a-1434",
+        "stable": true,
+        "version": "13w22a-1434"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w21b",
+        "stable": true,
+        "version": "13w21b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w21a",
+        "stable": true,
+        "version": "13w21a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w19a",
+        "stable": true,
+        "version": "13w19a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w18c",
+        "stable": true,
+        "version": "13w18c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w18b",
+        "stable": true,
+        "version": "13w18b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w18a",
+        "stable": true,
+        "version": "13w18a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.5.2",
+        "stable": true,
+        "version": "1.5.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w17a",
+        "stable": true,
+        "version": "13w17a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.5.2-pre-250703",
+        "stable": true,
+        "version": "1.5.2-pre-250703"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16b",
+        "stable": true,
+        "version": "13w16b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16b-2151",
+        "stable": true,
+        "version": "13w16b-2151"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16b-2118",
+        "stable": true,
+        "version": "13w16b-2118"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16a",
+        "stable": true,
+        "version": "13w16a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16a-192037",
+        "stable": true,
+        "version": "13w16a-192037"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16a-191517",
+        "stable": true,
+        "version": "13w16a-191517"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16a-181812",
+        "stable": true,
+        "version": "13w16a-181812"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w16a-181800",
+        "stable": true,
+        "version": "13w16a-181800"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:2.0-purple",
+        "stable": true,
+        "version": "2.0-purple"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:2.0-blue",
+        "stable": true,
+        "version": "2.0-blue"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:2.0-red",
+        "stable": true,
+        "version": "2.0-red"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:2.0-preview",
+        "stable": true,
+        "version": "2.0-preview"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.5.1",
+        "stable": true,
+        "version": "1.5.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.5.1-pre-191519",
+        "stable": true,
+        "version": "1.5.1-pre-191519"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w12~",
+        "stable": true,
+        "version": "13w12~"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w12~-1439",
+        "stable": true,
+        "version": "13w12~-1439"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w11a",
+        "stable": true,
+        "version": "13w11a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.5",
+        "stable": true,
+        "version": "1.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.5-pre-whitelinefix",
+        "stable": true,
+        "version": "1.5-pre-whitelinefix"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.5-pre-071309",
+        "stable": true,
+        "version": "1.5-pre-071309"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w10b",
+        "stable": true,
+        "version": "13w10b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w10a",
+        "stable": true,
+        "version": "13w10a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w09c",
+        "stable": true,
+        "version": "13w09c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w09b",
+        "stable": true,
+        "version": "13w09b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w09a",
+        "stable": true,
+        "version": "13w09a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w07a",
+        "stable": true,
+        "version": "13w07a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w06a-1636",
+        "stable": true,
+        "version": "13w06a-1636"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w06a",
+        "stable": true,
+        "version": "13w06a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w06a-1559",
+        "stable": true,
+        "version": "13w06a-1559"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w05b",
+        "stable": true,
+        "version": "13w05b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w05a",
+        "stable": true,
+        "version": "13w05a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w05a-1538",
+        "stable": true,
+        "version": "13w05a-1538"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w05a-1504",
+        "stable": true,
+        "version": "13w05a-1504"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w04a-whitelinefix",
+        "stable": true,
+        "version": "13w04a-whitelinefix"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w04a",
+        "stable": true,
+        "version": "13w04a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w03a",
+        "stable": true,
+        "version": "13w03a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w03a-1647",
+        "stable": true,
+        "version": "13w03a-1647"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w03a-1613",
+        "stable": true,
+        "version": "13w03a-1613"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w03a-1538",
+        "stable": true,
+        "version": "13w03a-1538"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w02b",
+        "stable": true,
+        "version": "13w02b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w02a-whitetexturefix",
+        "stable": true,
+        "version": "13w02a-whitetexturefix"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w02a",
+        "stable": true,
+        "version": "13w02a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.7",
+        "stable": true,
+        "version": "1.4.7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w01b",
+        "stable": true,
+        "version": "13w01b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:13w01a",
+        "stable": true,
+        "version": "13w01a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.6",
+        "stable": true,
+        "version": "1.4.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.6-pre-1521",
+        "stable": true,
+        "version": "1.4.6-pre-1521"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.6-pre-1428",
+        "stable": true,
+        "version": "1.4.6-pre-1428"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w50b",
+        "stable": true,
+        "version": "12w50b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w50a",
+        "stable": true,
+        "version": "12w50a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w49a",
+        "stable": true,
+        "version": "12w49a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.5",
+        "stable": true,
+        "version": "1.4.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.5-pre-160924",
+        "stable": true,
+        "version": "1.4.5-pre-160924"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.4",
+        "stable": true,
+        "version": "1.4.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.3",
+        "stable": true,
+        "version": "1.4.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.2",
+        "stable": true,
+        "version": "1.4.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.1",
+        "stable": true,
+        "version": "1.4.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4.1-1338",
+        "stable": true,
+        "version": "1.4.1-1338"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.4",
+        "stable": true,
+        "version": "1.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w42b",
+        "stable": true,
+        "version": "12w42b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w42a",
+        "stable": true,
+        "version": "12w42a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w41b",
+        "stable": true,
+        "version": "12w41b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w41a",
+        "stable": true,
+        "version": "12w41a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w40b",
+        "stable": true,
+        "version": "12w40b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w40a",
+        "stable": true,
+        "version": "12w40a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w39b",
+        "stable": true,
+        "version": "12w39b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w39a",
+        "stable": true,
+        "version": "12w39a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w39a-1243",
+        "stable": true,
+        "version": "12w39a-1243"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w38b",
+        "stable": true,
+        "version": "12w38b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w38a",
+        "stable": true,
+        "version": "12w38a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w37a",
+        "stable": true,
+        "version": "12w37a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w36a",
+        "stable": true,
+        "version": "12w36a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w34b",
+        "stable": true,
+        "version": "12w34b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w34a",
+        "stable": true,
+        "version": "12w34a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.3.2",
+        "stable": true,
+        "version": "1.3.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w32a",
+        "stable": true,
+        "version": "12w32a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w32a-1532",
+        "stable": true,
+        "version": "12w32a-1532"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.3.1",
+        "stable": true,
+        "version": "1.3.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.3",
+        "stable": true,
+        "version": "1.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.3-1249",
+        "stable": true,
+        "version": "1.3-1249"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w30e",
+        "stable": true,
+        "version": "12w30e"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w30d",
+        "stable": true,
+        "version": "12w30d"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w30c",
+        "stable": true,
+        "version": "12w30c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w30b",
+        "stable": true,
+        "version": "12w30b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w30a",
+        "stable": true,
+        "version": "12w30a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w27a",
+        "stable": true,
+        "version": "12w27a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w26a",
+        "stable": true,
+        "version": "12w26a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w25a",
+        "stable": true,
+        "version": "12w25a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w24a",
+        "stable": true,
+        "version": "12w24a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w23b",
+        "stable": true,
+        "version": "12w23b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w23a",
+        "stable": true,
+        "version": "12w23a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w22a",
+        "stable": true,
+        "version": "12w22a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w21b",
+        "stable": true,
+        "version": "12w21b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w21a",
+        "stable": true,
+        "version": "12w21a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w19a",
+        "stable": true,
+        "version": "12w19a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w18a",
+        "stable": true,
+        "version": "12w18a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w17a",
+        "stable": true,
+        "version": "12w17a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w17a-1424",
+        "stable": true,
+        "version": "12w17a-1424"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w16a",
+        "stable": true,
+        "version": "12w16a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w15a",
+        "stable": true,
+        "version": "12w15a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.2.5",
+        "stable": true,
+        "version": "1.2.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.2.4",
+        "stable": true,
+        "version": "1.2.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.2.3",
+        "stable": true,
+        "version": "1.2.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.2.2",
+        "stable": true,
+        "version": "1.2.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.2.1",
+        "stable": true,
+        "version": "1.2.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.2",
+        "stable": true,
+        "version": "1.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w08a",
+        "stable": true,
+        "version": "12w08a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w07b",
+        "stable": true,
+        "version": "12w07b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w07a",
+        "stable": true,
+        "version": "12w07a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w06a",
+        "stable": true,
+        "version": "12w06a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w05b",
+        "stable": true,
+        "version": "12w05b"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w05a",
+        "stable": true,
+        "version": "12w05a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w05a-1442",
+        "stable": true,
+        "version": "12w05a-1442"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w05a-1354",
+        "stable": true,
+        "version": "12w05a-1354"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w04a",
+        "stable": true,
+        "version": "12w04a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w03a",
+        "stable": true,
+        "version": "12w03a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.1",
+        "stable": true,
+        "version": "1.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:12w01a",
+        "stable": true,
+        "version": "12w01a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:11w50a",
+        "stable": true,
+        "version": "11w50a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:11w49a",
+        "stable": true,
+        "version": "11w49a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:11w48a",
+        "stable": true,
+        "version": "11w48a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:11w47a",
+        "stable": true,
+        "version": "11w47a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.1",
+        "stable": true,
+        "version": "1.0.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.0",
+        "stable": true,
+        "version": "1.0.0"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.0-tominecon",
+        "stable": true,
+        "version": "1.0.0-tominecon"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.0-rc2",
+        "stable": true,
+        "version": "1.0.0-rc2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.0-rc2-1656",
+        "stable": true,
+        "version": "1.0.0-rc2-1656"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.0-rc2-1649",
+        "stable": true,
+        "version": "1.0.0-rc2-1649"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.0-rc2-1633",
+        "stable": true,
+        "version": "1.0.0-rc2-1633"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:1.0.0-rc1",
+        "stable": true,
+        "version": "1.0.0-rc1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre6",
+        "stable": true,
+        "version": "b1.9-pre6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre5",
+        "stable": true,
+        "version": "b1.9-pre5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre4",
+        "stable": true,
+        "version": "b1.9-pre4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre4-1441",
+        "stable": true,
+        "version": "b1.9-pre4-1441"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre4-1435",
+        "stable": true,
+        "version": "b1.9-pre4-1435"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre4-1425",
+        "stable": true,
+        "version": "b1.9-pre4-1425"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre4-1415",
+        "stable": true,
+        "version": "b1.9-pre4-1415"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre3",
+        "stable": true,
+        "version": "b1.9-pre3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre3-1402",
+        "stable": true,
+        "version": "b1.9-pre3-1402"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre3-1350",
+        "stable": true,
+        "version": "b1.9-pre3-1350"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre2",
+        "stable": true,
+        "version": "b1.9-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.9-pre1",
+        "stable": true,
+        "version": "b1.9-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8.1",
+        "stable": true,
+        "version": "b1.8.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8",
+        "stable": true,
+        "version": "b1.8"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8-pre2",
+        "stable": true,
+        "version": "b1.8-pre2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8-pre2-131240",
+        "stable": true,
+        "version": "b1.8-pre2-131240"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8-pre2-131225",
+        "stable": true,
+        "version": "b1.8-pre2-131225"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8-pre2-121559",
+        "stable": true,
+        "version": "b1.8-pre2-121559"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8-pre1",
+        "stable": true,
+        "version": "b1.8-pre1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8-pre1-091358",
+        "stable": true,
+        "version": "b1.8-pre1-091358"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.8-pre1-081459",
+        "stable": true,
+        "version": "b1.8-pre1-081459"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.7.3",
+        "stable": true,
+        "version": "b1.7.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.7.2",
+        "stable": true,
+        "version": "b1.7.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.7_01",
+        "stable": true,
+        "version": "b1.7_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.7",
+        "stable": true,
+        "version": "b1.7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6.6",
+        "stable": true,
+        "version": "b1.6.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6.5",
+        "stable": true,
+        "version": "b1.6.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6.4",
+        "stable": true,
+        "version": "b1.6.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6.3",
+        "stable": true,
+        "version": "b1.6.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6.2",
+        "stable": true,
+        "version": "b1.6.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6.1",
+        "stable": true,
+        "version": "b1.6.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6",
+        "stable": true,
+        "version": "b1.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6-tb3",
+        "stable": true,
+        "version": "b1.6-tb3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.6-trailer",
+        "stable": true,
+        "version": "b1.6-trailer"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.5_02",
+        "stable": true,
+        "version": "b1.5_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.5_01",
+        "stable": true,
+        "version": "b1.5_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3-demo",
+        "stable": true,
+        "version": "b1.3-demo"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.5",
+        "stable": true,
+        "version": "b1.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.4_01",
+        "stable": true,
+        "version": "b1.4_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.4",
+        "stable": true,
+        "version": "b1.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.4-1634",
+        "stable": true,
+        "version": "b1.4-1634"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.4-1507",
+        "stable": true,
+        "version": "b1.4-1507"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3_01",
+        "stable": true,
+        "version": "b1.3_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3",
+        "stable": true,
+        "version": "b1.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3-1750",
+        "stable": true,
+        "version": "b1.3-1750"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3-1733",
+        "stable": true,
+        "version": "b1.3-1733"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3-1731",
+        "stable": true,
+        "version": "b1.3-1731"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3-1713",
+        "stable": true,
+        "version": "b1.3-1713"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.3-1647",
+        "stable": true,
+        "version": "b1.3-1647"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.2_02-launcher",
+        "stable": true,
+        "version": "b1.2_02-launcher"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.2_02",
+        "stable": true,
+        "version": "b1.2_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.2_01",
+        "stable": true,
+        "version": "b1.2_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.2",
+        "stable": true,
+        "version": "b1.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.1_02",
+        "stable": true,
+        "version": "b1.1_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.1_01",
+        "stable": true,
+        "version": "b1.1_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.1",
+        "stable": true,
+        "version": "b1.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.1-1255",
+        "stable": true,
+        "version": "b1.1-1255"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.1-1245",
+        "stable": true,
+        "version": "b1.1-1245"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.0.2",
+        "stable": true,
+        "version": "b1.0.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.0.2-0841",
+        "stable": true,
+        "version": "b1.0.2-0841"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.0_01",
+        "stable": true,
+        "version": "b1.0_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:b1.0",
+        "stable": true,
+        "version": "b1.0"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.6",
+        "stable": true,
+        "version": "a1.2.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.8",
+        "stable": true,
+        "version": "a0.2.8"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.5",
+        "stable": true,
+        "version": "a1.2.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.7",
+        "stable": true,
+        "version": "a0.2.7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.4_01",
+        "stable": true,
+        "version": "a1.2.4_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.6_02",
+        "stable": true,
+        "version": "a0.2.6_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.6_01",
+        "stable": true,
+        "version": "a0.2.6_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.6",
+        "stable": true,
+        "version": "a0.2.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.3_05",
+        "stable": true,
+        "version": "a1.2.3_05"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.5_02",
+        "stable": true,
+        "version": "a0.2.5_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.3_04",
+        "stable": true,
+        "version": "a1.2.3_04"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.3_02",
+        "stable": true,
+        "version": "a1.2.3_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.5_01",
+        "stable": true,
+        "version": "a0.2.5_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.5",
+        "stable": true,
+        "version": "a0.2.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.5-1004",
+        "stable": true,
+        "version": "a0.2.5-1004"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.3_01",
+        "stable": true,
+        "version": "a1.2.3_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.3_01-0958",
+        "stable": true,
+        "version": "a1.2.3_01-0958"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.3_01-0956",
+        "stable": true,
+        "version": "a1.2.3_01-0956"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.3",
+        "stable": true,
+        "version": "a1.2.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.5-0923",
+        "stable": true,
+        "version": "a0.2.5-0923"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.2",
+        "stable": true,
+        "version": "a1.2.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.2-1938",
+        "stable": true,
+        "version": "a1.2.2-1938"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.2-1624",
+        "stable": true,
+        "version": "a1.2.2-1624"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.4",
+        "stable": true,
+        "version": "a0.2.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.1_01",
+        "stable": true,
+        "version": "a1.2.1_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.3",
+        "stable": true,
+        "version": "a0.2.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.0_02-launcher",
+        "stable": true,
+        "version": "a1.2.0_02-launcher"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.0_02",
+        "stable": true,
+        "version": "a1.2.0_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.0_01",
+        "stable": true,
+        "version": "a1.2.0_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.2_01",
+        "stable": true,
+        "version": "a0.2.2_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.0",
+        "stable": true,
+        "version": "a1.2.0"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.2.0-2057",
+        "stable": true,
+        "version": "a1.2.0-2057"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.2",
+        "stable": true,
+        "version": "a0.2.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.1.2_01",
+        "stable": true,
+        "version": "a1.1.2_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.1",
+        "stable": true,
+        "version": "a0.2.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.1.2",
+        "stable": true,
+        "version": "a1.1.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.1.1",
+        "stable": true,
+        "version": "a1.1.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.1.0",
+        "stable": true,
+        "version": "a1.1.0"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.1.0-131933",
+        "stable": true,
+        "version": "a1.1.0-131933"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.0_01",
+        "stable": true,
+        "version": "a0.2.0_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.1.0-101847-launcher",
+        "stable": true,
+        "version": "a1.1.0-101847-launcher"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.1.0-101847",
+        "stable": true,
+        "version": "a1.1.0-101847"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.2.0",
+        "stable": true,
+        "version": "a0.2.0"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.17_04",
+        "stable": true,
+        "version": "a1.0.17_04"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.17_03",
+        "stable": true,
+        "version": "a1.0.17_03"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.17_02",
+        "stable": true,
+        "version": "a1.0.17_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.4",
+        "stable": true,
+        "version": "a0.1.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.3",
+        "stable": true,
+        "version": "a0.1.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.16_02",
+        "stable": true,
+        "version": "a1.0.16_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.2_01",
+        "stable": true,
+        "version": "a0.1.2_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.2",
+        "stable": true,
+        "version": "a0.1.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.2-1817",
+        "stable": true,
+        "version": "a0.1.2-1817"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.16_01",
+        "stable": true,
+        "version": "a1.0.16_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.1",
+        "stable": true,
+        "version": "a0.1.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.1-1707",
+        "stable": true,
+        "version": "a0.1.1-1707"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.16",
+        "stable": true,
+        "version": "a1.0.16"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a0.1.0",
+        "stable": true,
+        "version": "a0.1.0"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.15",
+        "stable": true,
+        "version": "a1.0.15"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.14",
+        "stable": true,
+        "version": "a1.0.14"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.14-1659-launcher",
+        "stable": true,
+        "version": "a1.0.14-1659-launcher"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.14-1659",
+        "stable": true,
+        "version": "a1.0.14-1659"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.14-1603",
+        "stable": true,
+        "version": "a1.0.14-1603"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.13_01",
+        "stable": true,
+        "version": "a1.0.13_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.13_01-1444",
+        "stable": true,
+        "version": "a1.0.13_01-1444"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.13_01-1038",
+        "stable": true,
+        "version": "a1.0.13_01-1038"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.13",
+        "stable": true,
+        "version": "a1.0.13"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.12",
+        "stable": true,
+        "version": "a1.0.12"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.11",
+        "stable": true,
+        "version": "a1.0.11"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.10",
+        "stable": true,
+        "version": "a1.0.10"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.9",
+        "stable": true,
+        "version": "a1.0.9"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.8_01",
+        "stable": true,
+        "version": "a1.0.8_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.7",
+        "stable": true,
+        "version": "a1.0.7"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.6_03",
+        "stable": true,
+        "version": "a1.0.6_03"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.6_01",
+        "stable": true,
+        "version": "a1.0.6_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.6",
+        "stable": true,
+        "version": "a1.0.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.5_01",
+        "stable": true,
+        "version": "a1.0.5_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.5-2149",
+        "stable": true,
+        "version": "a1.0.5-2149"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.5",
+        "stable": true,
+        "version": "a1.0.5"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.4-launcher",
+        "stable": true,
+        "version": "a1.0.4-launcher"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.4",
+        "stable": true,
+        "version": "a1.0.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.3",
+        "stable": true,
+        "version": "a1.0.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.2_02",
+        "stable": true,
+        "version": "a1.0.2_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.2_01",
+        "stable": true,
+        "version": "a1.0.2_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:a1.0.1_01",
+        "stable": true,
+        "version": "a1.0.1_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100630-1835",
+        "stable": false,
+        "version": "inf-20100630-1835"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100630-1340",
+        "stable": false,
+        "version": "inf-20100630-1340"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100629",
+        "stable": false,
+        "version": "inf-20100629"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100627",
+        "stable": false,
+        "version": "inf-20100627"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100625-1917",
+        "stable": false,
+        "version": "inf-20100625-1917"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100625-0922",
+        "stable": false,
+        "version": "inf-20100625-0922"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100624",
+        "stable": false,
+        "version": "inf-20100624"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100618",
+        "stable": false,
+        "version": "inf-20100618"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100617-1531",
+        "stable": false,
+        "version": "inf-20100617-1531"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100617-1205",
+        "stable": false,
+        "version": "inf-20100617-1205"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100616-1808",
+        "stable": false,
+        "version": "inf-20100616-1808"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100615",
+        "stable": false,
+        "version": "inf-20100615"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100611",
+        "stable": false,
+        "version": "inf-20100611"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100608",
+        "stable": false,
+        "version": "inf-20100608"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100607",
+        "stable": false,
+        "version": "inf-20100607"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100420",
+        "stable": false,
+        "version": "inf-20100420"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100415",
+        "stable": false,
+        "version": "inf-20100415"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100414",
+        "stable": false,
+        "version": "inf-20100414"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100413-1953",
+        "stable": false,
+        "version": "inf-20100413-1953"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100330-1511",
+        "stable": false,
+        "version": "inf-20100330-1511"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100327",
+        "stable": false,
+        "version": "inf-20100327"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100325-1640",
+        "stable": false,
+        "version": "inf-20100325-1640"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100321-1817",
+        "stable": false,
+        "version": "inf-20100321-1817"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100320",
+        "stable": false,
+        "version": "inf-20100320"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100316",
+        "stable": false,
+        "version": "inf-20100316"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100313",
+        "stable": false,
+        "version": "inf-20100313"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:inf-20100227-1433",
+        "stable": false,
+        "version": "inf-20100227-1433"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100223",
+        "stable": false,
+        "version": "in-20100223"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100219",
+        "stable": false,
+        "version": "in-20100219"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100218-0016",
+        "stable": false,
+        "version": "in-20100218-0016"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100214",
+        "stable": false,
+        "version": "in-20100214"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100213",
+        "stable": false,
+        "version": "in-20100213"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100212-1622",
+        "stable": false,
+        "version": "in-20100212-1622"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100212-1210",
+        "stable": false,
+        "version": "in-20100212-1210"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100207-1703",
+        "stable": false,
+        "version": "in-20100207-1703"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100207-1101",
+        "stable": false,
+        "version": "in-20100207-1101"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100206-2103",
+        "stable": false,
+        "version": "in-20100206-2103"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100202-2330",
+        "stable": false,
+        "version": "in-20100202-2330"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100201-2227",
+        "stable": false,
+        "version": "in-20100201-2227"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100201-0025",
+        "stable": false,
+        "version": "in-20100201-0025"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100131-2244",
+        "stable": false,
+        "version": "in-20100131-2244"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100130",
+        "stable": false,
+        "version": "in-20100130"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100129-1452",
+        "stable": false,
+        "version": "in-20100129-1452"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100128-2304",
+        "stable": false,
+        "version": "in-20100128-2304"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100125",
+        "stable": false,
+        "version": "in-20100125"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100124-2310",
+        "stable": false,
+        "version": "in-20100124-2310"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100110",
+        "stable": false,
+        "version": "in-20100110"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20100104-2258",
+        "stable": false,
+        "version": "in-20100104-2258"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20091231-2255",
+        "stable": false,
+        "version": "in-20091231-2255"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:in-20091223-1459",
+        "stable": false,
+        "version": "in-20091223-1459"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.30-c-renew",
+        "stable": false,
+        "version": "c0.30-c-renew"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.30-c-1900-renew",
+        "stable": false,
+        "version": "c0.30-c-1900-renew"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.10.1",
+        "stable": false,
+        "version": "c1.10.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.10",
+        "stable": false,
+        "version": "c1.10"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.30-c",
+        "stable": false,
+        "version": "c0.30-c"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.30-c-1900",
+        "stable": false,
+        "version": "c0.30-c-1900"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.30-s",
+        "stable": false,
+        "version": "c0.30-s"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.30-s-1858",
+        "stable": false,
+        "version": "c0.30-s-1858"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.29_02",
+        "stable": false,
+        "version": "c0.29_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.29_01",
+        "stable": false,
+        "version": "c0.29_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.29",
+        "stable": false,
+        "version": "c0.29"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.9.1",
+        "stable": false,
+        "version": "c1.9.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.28_01",
+        "stable": false,
+        "version": "c0.28_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.8.3",
+        "stable": false,
+        "version": "c1.8.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.27_st",
+        "stable": false,
+        "version": "c0.27_st"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.25_05_st",
+        "stable": false,
+        "version": "c0.25_05_st"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.24_st_03",
+        "stable": false,
+        "version": "c0.24_st_03"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.23a_01",
+        "stable": false,
+        "version": "c0.0.23a_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.22a_05",
+        "stable": false,
+        "version": "c0.0.22a_05"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.21a",
+        "stable": false,
+        "version": "c0.0.21a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.21a-2008",
+        "stable": false,
+        "version": "c0.0.21a-2008"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.20a_02",
+        "stable": false,
+        "version": "c0.0.20a_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.20a_01",
+        "stable": false,
+        "version": "c0.0.20a_01"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.8.2",
+        "stable": false,
+        "version": "c1.8.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.19a_06",
+        "stable": false,
+        "version": "c0.0.19a_06"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.19a_06-0137",
+        "stable": false,
+        "version": "c0.0.19a_06-0137"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.19a_04",
+        "stable": false,
+        "version": "c0.0.19a_04"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.6",
+        "stable": false,
+        "version": "c1.6"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.4.1",
+        "stable": false,
+        "version": "c1.4.1"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.18a_02",
+        "stable": false,
+        "version": "c0.0.18a_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.4",
+        "stable": false,
+        "version": "c1.4"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.4-1422",
+        "stable": false,
+        "version": "c1.4-1422"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.4-1327",
+        "stable": false,
+        "version": "c1.4-1327"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.17a",
+        "stable": false,
+        "version": "c0.0.17a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.17a-2014",
+        "stable": false,
+        "version": "c0.0.17a-2014"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.3",
+        "stable": false,
+        "version": "c1.3"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c1.2",
+        "stable": false,
+        "version": "c1.2"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.16a_02",
+        "stable": false,
+        "version": "c0.0.16a_02"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.16a_02-081047",
+        "stable": false,
+        "version": "c0.0.16a_02-081047"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.15a",
+        "stable": false,
+        "version": "c0.0.15a"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.15a-05311904",
+        "stable": false,
+        "version": "c0.0.15a-05311904"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.14a_08",
+        "stable": false,
+        "version": "c0.0.14a_08"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.13a_03-launcher",
+        "stable": false,
+        "version": "c0.0.13a_03-launcher"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.13a_03",
+        "stable": false,
+        "version": "c0.0.13a_03"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.12a_03",
+        "stable": false,
+        "version": "c0.0.12a_03"
+    },
+    {
+        "maven": "net.ornithemc:calamus-intermediary-gen2:c0.0.12a_03-200018",
+        "stable": false,
+        "version": "c0.0.12a_03-200018"
+    }
+]
