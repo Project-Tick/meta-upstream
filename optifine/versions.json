@@ -1,4 +1,14 @@
 {
+    "preview_OptiFine_26.2_HD_U_K2_pre1": {
+        "filename": "preview_OptiFine_26.2_HD_U_K2_pre1.jar",
+        "download_page": "http://optifine.net/adloadx?f=preview_OptiFine_26.2_HD_U_K2_pre1.jar",
+        "label": "OptiFine HD U K2 pre1",
+        "changelog": "changelog?f=preview_OptiFine_26.2_HD_U_K2_pre1.jar",
+        "date": "22.09.2026",
+        "resolved_url": "https://optifine.net/download?f=preview_OptiFine_26.2_HD_U_K2_pre1.jar",
+        "sha256": "db05b25f8aa5ac688a77354680ef939d4f3135350e64e7ccfe5996cfaf925927",
+        "size": 7783636
+    },
     "preview_OptiFine_26.1.2_HD_U_K1_pre2": {
         "filename": "preview_OptiFine_26.1.2_HD_U_K1_pre2.jar",
         "download_page": "http://optifine.net/adloadx?f=preview_OptiFine_26.1.2_HD_U_K1_pre2.jar",
